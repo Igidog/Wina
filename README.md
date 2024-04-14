@@ -1,1 +1,1 @@
-# Wina
+# Example of Readme
